@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+# sanity - exit on any error; no unbound variables
+set -euo pipefail
+
+function cli-template() {
+	# script arguments:
+	local args=( "$@" )
+
+	echo "${args[@]}"
+}
+
+if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then
+	cli-template "$@"
+fi
