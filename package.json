@@ -1,7 +1,7 @@
 {
   "name": "emptyshell",
   "version": "1.0.0",
-  "description": "intuitive and full-featured alternative to getopts for shell argument parsing",
+  "description": "Template repository for shell-based tools",
   "scripts": {
     "lint": "shellcheck ${npm_package_name}",
     "test": "npm run lint && bats test.bats",
