@@ -1,5 +1,5 @@
 {
-  "name": "cli-template",
+  "name": "emptyshell",
   "version": "1.0.0",
   "description": "intuitive and full-featured alternative to getopts for shell argument parsing",
   "scripts": {

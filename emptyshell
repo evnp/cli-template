@@ -3,7 +3,7 @@
 # sanity - exit on any error; no unbound variables
 set -euo pipefail
 
-function cli-template() {
+function emptyshell() {
 	# script arguments:
 	local args=( "$@" )
 
@@ -11,5 +11,5 @@ function cli-template() {
 }
 
 if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then
-	cli-template "$@"
+	emptyshell "$@"
 fi

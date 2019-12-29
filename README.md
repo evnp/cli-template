@@ -1,17 +1,17 @@
-cli-template
+emptyshell
 ============
 
-[![build status](https://img.shields.io/travis/evnp/cli-template/master.svg?style=flat-square)](https://travis-ci.org/evnp/cli-template)
+[![build status](https://img.shields.io/travis/evnp/emptyshell/master.svg?style=flat-square)](https://travis-ci.org/evnp/emptyshell)
 [![code quality](https://img.shields.io/badge/code_quality-shellcheck-7cf?style=flat-square)](https://github.com/koalaman/shellcheck)
-[![latest release](https://img.shields.io/github/release/evnp/cli-template.svg?style=flat-square)](https://github.com/evnp/cli-template/releases/latest)
-[![npm package](https://img.shields.io/npm/v/cli-template.svg?style=flat-square)](https://www.npmjs.com/package/cli-template)
-[![license](https://img.shields.io/github/license/evnp/cli-template.svg?style=flat-square&color=blue)](https://github.com/evnp/cli-template/blob/master/LICENSE.md)
+[![latest release](https://img.shields.io/github/release/evnp/emptyshell.svg?style=flat-square)](https://github.com/evnp/emptyshell/releases/latest)
+[![npm package](https://img.shields.io/npm/v/emptyshell.svg?style=flat-square)](https://www.npmjs.com/package/emptyshell)
+[![license](https://img.shields.io/github/license/evnp/emptyshell.svg?style=flat-square&color=blue)](https://github.com/evnp/emptyshell/blob/master/LICENSE.md)
 
-**Contents** - [Usage](https://github.com/evnp/cli-template#usage) | [Install](https://github.com/evnp/cli-template#install) | [Tests](https://github.com/evnp/cli-template#tests) | [License](https://github.com/evnp/cli-template#license)
+**Contents** - [Usage](https://github.com/evnp/emptyshell#usage) | [Install](https://github.com/evnp/emptyshell#install) | [Tests](https://github.com/evnp/emptyshell#tests) | [License](https://github.com/evnp/emptyshell#license)
 
 ...introduction...
 
-![cli-template demo](https://github.com/evnp/cli-template/blob/master/cli-template.gif?raw=true)
+![emptyshell demo](https://github.com/evnp/emptyshell/blob/master/emptyshell.gif?raw=true)
 
 Usage
 -----
